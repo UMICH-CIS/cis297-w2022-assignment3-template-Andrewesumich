@@ -1,0 +1,7 @@
+C:\Users\Andrew\Documents\CIS297\GitHub\cis297-w2022-assignment3-template-Andrewesumich\BankApplication\bin\Debug\BankApplication.exe.config
+C:\Users\Andrew\Documents\CIS297\GitHub\cis297-w2022-assignment3-template-Andrewesumich\BankApplication\bin\Debug\BankApplication.exe
+C:\Users\Andrew\Documents\CIS297\GitHub\cis297-w2022-assignment3-template-Andrewesumich\BankApplication\bin\Debug\BankApplication.pdb
+C:\Users\Andrew\Documents\CIS297\GitHub\cis297-w2022-assignment3-template-Andrewesumich\BankApplication\obj\Debug\BankApplication.csproj.AssemblyReference.cache
+C:\Users\Andrew\Documents\CIS297\GitHub\cis297-w2022-assignment3-template-Andrewesumich\BankApplication\obj\Debug\BankApplication.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\CIS297\GitHub\cis297-w2022-assignment3-template-Andrewesumich\BankApplication\obj\Debug\BankApplication.exe
+C:\Users\Andrew\Documents\CIS297\GitHub\cis297-w2022-assignment3-template-Andrewesumich\BankApplication\obj\Debug\BankApplication.pdb
